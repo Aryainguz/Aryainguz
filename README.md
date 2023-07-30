@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Inguz</h1>
 <h3 align="center">I am a software developer. Passionate about computers, science and literature. I am Programming my ideas into reality.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryainguz" alt="aryainguz" /></a> </p>
+
 
 
 - 👨‍💻 My Portfolio website [https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj1xuianbKAAxUHhlYBHQHWB9cQFnoECBcQAQ&url=https%3A%2F%2Faryaninguz.me%2F&usg=AOvVaw0MC6EdgNt_agX0IyL485eP&opi=89978449](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj1xuianbKAAxUHhlYBHQHWB9cQFnoECBcQAQ&url=https%3A%2F%2Faryaninguz.me%2F&usg=AOvVaw0MC6EdgNt_agX0IyL485eP&opi=89978449)

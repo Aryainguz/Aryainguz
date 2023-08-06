@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan Inguz</h1>
+<h1 align="center">Hi, I'm Aryan Inguz</h1>
 <h3 align="center">I am a software developer. Passionate about computers, science and literature. I am Programming my ideas into reality.</h3>
 
 

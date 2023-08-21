@@ -4,9 +4,9 @@
 
 
 
-- 👨‍💻 My Portfolio website [https://aryaninguz.me/]
+- 👨‍💻 My Portfolio website : https://aryaninguz.me/
 
-- 📝 I regularly write articles on [https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj1xuianbKAAxUHhlYBHQHWB9cQFnoECCIQAQ&url=https%3A%2F%2Fmedium.com%2F%40aryaninguz369&usg=AOvVaw3LsafCWboTCPvTApF6TwzT&opi=89978449](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj1xuianbKAAxUHhlYBHQHWB9cQFnoECCIQAQ&url=https%3A%2F%2Fmedium.com%2F%40aryaninguz369&usg=AOvVaw3LsafCWboTCPvTApF6TwzT&opi=89978449)
+- 📝 I regularly write articles on: https://medium.com/@aryaninguz369
 
 - 📫 How to reach me **Aryaninguz369@gmail.com**
 

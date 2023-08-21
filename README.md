@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Aryaninguz369@gmail.com**
 
-- ⚡ Fun fact **I love reading Kafka and fanatasy novels**
+- ⚡ Fun fact **I love reading Franz Kafka**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

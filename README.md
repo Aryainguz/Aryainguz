@@ -15,3 +15,5 @@ I am a software developer, passionate about computers, science and literature. I
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aryainguz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+[![An image of @aryainguz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryainguz)](https://holopin.io/@aryainguz)
+

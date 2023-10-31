@@ -20,7 +20,7 @@ Portfolio = "https://aryaninguz.me"
 
 About= [
   "I'm a Full Stack Developer",
-  "Programming Ideas into reality",
+  "Programming ideas into reality",
   "⚡️ Fun-Fact: I love reading Franz Kafka",
 ]
 ```

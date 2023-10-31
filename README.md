@@ -5,7 +5,7 @@
 
 <br>
 
-## ⚡ HELLO EVERYONE ⚡
+## ⚡ HELLO WORLD! ⚡
 ```
 Name = "Aryan Inguz"
 Profession = {

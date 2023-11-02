@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello World!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Aryan<img width="40px" height="40px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=ffffff&center=true&vCenter=true&width=1000&height=50&lines=I+'m+A+Software+Devloper+;+❤️+From+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=ffffff&center=true&vCenter=true&width=1000&height=50&lines=I+'m+A+Software+Developer+;+❤️+From+India)](https://git.io/typing-svg)
 
 <br>
 

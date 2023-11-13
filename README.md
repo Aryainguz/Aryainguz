@@ -11,7 +11,7 @@ Name = "Aryan Inguz"
 Profession = {
   'MERN STACK':  '❤️',
   'Django':  '✅',
-  'Open Source':  '🧲'
+  'Open Source':  '❤️'
 }
 Age = "19"
 Country = "India"

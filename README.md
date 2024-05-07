@@ -11,6 +11,7 @@ Name = "Aryan Inguz"
 Profession = {
   'MERN STACK':  '❤️',
   'Nextjs':  '❤️',
+  'react-native:'❤️',
   'Django':  '✅',
   'Open Source':  '❤️'
 }

@@ -1,5 +1,5 @@
 <div align="center">
-<img width="70vw" height="70vh" alt="aryainguz" src="https://github.com/Aryainguz/Aryainguz/blob/main/inguz.dev.jpg">
+<img width="100%" height="100vh" alt="aryainguz" src="https://github.com/Aryainguz/Aryainguz/blob/main/inguz.dev.jpg">
 </div>
 
 <h1 align="center">Hello World!</h1>

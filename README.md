@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" alt="desktop-oil-painting" src="https://github.com/Aryainguz/Aryainguz/blob/main/inguz.dev.jpg">
+<img width="100%" height="50%" alt="aryainguz" src="https://github.com/Aryainguz/Aryainguz/blob/main/inguz.dev.jpg">
 </div>
 
 <h1 align="center">Hello World!</h1>

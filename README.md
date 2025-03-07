@@ -7,17 +7,18 @@
 ## ⚡ HELLO WORLD! ⚡
 ```
 Name = "Aryan Inguz"
-Profession = {
+Stack = {
   'MERN STACK':  '❤️',
   'Nextjs':  '❤️',
   'react-native:'❤️',
-  'Django':  '✅',
+  'Python':  '✅',
+  'Java':  '✅',
   'Open Source':  '❤️'
 }
-Age = "19"
+Age = "21"
 Country = "India"
 College = "Chitkara University, Punjab"
-Portfolio = "https://aryaninguz.me"
+Portfolio = "https://inguzdev.co"
 
 About= [
   "I'm a Full Stack Developer",
@@ -26,7 +27,7 @@ About= [
 ]
 ```
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryaninguz.py) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-inguz-b73150254/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aryaninguz369) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/aryaninguz369) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-inguz-b73150254/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aryaninguz369) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/inguzdev) 
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

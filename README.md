@@ -8,12 +8,13 @@
 ```
 Name = "Aryan Inguz"
 Stack = {
-  'MERN STACK':  '❤️',
-  'Nextjs':  '❤️',
-  'react-native:'❤️',
+  'Backend':  '❤️',
+  'Architecture':  '❤️',
+  'Distributed Systems':  '❤️',
+  'Typescript':  '❤️',
+  'Java':  '❤️',
   'Python':  '✅',
-  'Java':  '✅',
-  'Open Source':  '❤️'
+  'react-native':  '✅',
 }
 Age = "21"
 Country = "India"

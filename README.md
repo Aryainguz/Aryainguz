@@ -19,7 +19,7 @@ Stack = {
 Age = "21"
 Country = "India"
 College = "Chitkara University, Punjab"
-Portfolio = "https://inguzdev.co"
+Portfolio = "https://inguzdev.vercel.app"
 
 About= [
   "I'm a Full Stack Developer",

@@ -1,7 +1,7 @@
 <h1 align="center">Never Slow <img width="40px" height="40px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></h1>
 
 
-## ⚡ Aryan Inguz! ⚡
+## ⚡ Aryan Inguz ⚡
 ```
 Name = "Aryan Inguz"
 Stack = {

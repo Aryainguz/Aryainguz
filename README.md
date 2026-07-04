@@ -1,4 +1,4 @@
-<h1 align="center">Never Slow <img width="40px" height="40px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></h1>
+<h1 align="center">Never <img width="40px" height="40px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> Slow</h1>
 
 
 ## ⚡ Aryan Inguz ⚡

@@ -1,31 +1,9 @@
 <h1 align="center">Never <img width="40px" height="40px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> Slow</h1>
 
-
 ## ⚡ Aryan Inguz ⚡
-```
-Name = "Aryan Inguz"
-Stack = {
-  'Backend':  '❤️',
-  'Architecture':  '❤️',
-  'Distributed Systems':  '❤️',
-  'Typescript':  '❤️',
-  'Java':  '❤️',
-  'Python':  '✅',
-  'react-native':  '✅',
-}
-Age = "21"
-Country = "India"
-College = "Chitkara University, Punjab"
-Portfolio = "https://inguzdev.vercel.app"
 
-About= [
-  "I'm a Full Stack Developer",
-  "Programming ideas into reality",
-  "⚡️ Fun-Fact: I love reading Franz Kafka",
-]
-```
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-inguz-b73150254/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aryaninguz369) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/inguzdev) 
+<p align="center"><img width="920" height="540" alt="terminal-redteam" src="https://github.com/user-attachments/assets/b719c0cf-3a36-4e71-bb16-e330a73c33e5" />
+</p>
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

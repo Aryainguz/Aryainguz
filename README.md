@@ -13,9 +13,8 @@ Stack = {
   'Python':  '✅',
   'react-native':  '✅',
 }
-Age = "21"
+Age = "22"
 Country = "India"
-College = "Chitkara University, Punjab"
 Portfolio = "https://inguzdev.vercel.app"
 
 About= [
